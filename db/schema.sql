@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS todo_db;
+DROP DATABASE IF EXISTS burger_db;
 
-CREATE DATABASE todo_db;
+CREATE DATABASE burger_db;
 
-USE todo_db;
+USE burger_db;
 
 CREATE TABLE users (
   userid INT PRIMARY KEY AUTO_INCREMENT NOT NULL,

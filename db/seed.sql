@@ -1,4 +1,4 @@
-USE todo_db;
+USE burger_db;
 
 INSERT INTO users (username) 
 VALUES ('johndoe'), 
